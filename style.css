@@ -564,7 +564,7 @@ section {
   /*  làm  menubtn > closebtn */
   header .menu-btn {
     position: absolute;
-    background: url("images/NicePng_button-png_147111.png") no-repeat;
+    background: url("./images/NicePng_button-png_147111.png") no-repeat;
     width: 40px;
     height: 40px;
     filter: invert(1);
@@ -578,7 +578,7 @@ section {
   }
   header .menu-btn.active {
     z-index: 99;
-    background: url("/images/close-circular-button-symbol.png") no-repeat;
+    background: url("./images/close-circular-button-symbol.png") no-repeat;
     top: 3rem;
     right: 12rem;
     width: 40px;
